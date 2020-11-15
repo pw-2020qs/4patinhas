@@ -1,0 +1,28 @@
+{
+    "name": "4patinhas",
+    "version": "1.0.0",
+    "description": "projeto de aplicação web para Sistema de cadastro e divulgação de ONG para animais ",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "webpack"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/pw-2020qs/4patinhas.git"
+    },
+    "author": "Lucas Cioffi, Matheus Ferreira, Patricia Tozi e Samuel Esdras",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/pw-2020qs/4patinhas/issues"
+    },
+    "homepage": "https://github.com/pw-2020qs/4patinhas#readme",
+    "dependencies": {
+        "@types/node": "^14.14.7"
+    },
+    "devDependencies": {
+        "ts-loader": "^8.0.11",
+        "webpack": "^5.4.0",
+        "webpack-cli": "^4.2.0"
+    }
+}
